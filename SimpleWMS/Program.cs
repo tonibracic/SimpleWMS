@@ -10,6 +10,7 @@ namespace SimpleWMS
     {
         static void Main(string[] args)
         {
+            int i = 1;
         }
     }
 }
