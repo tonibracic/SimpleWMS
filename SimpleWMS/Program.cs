@@ -13,6 +13,7 @@ namespace SimpleWMS
             int i = 1;
 
             i = i + 1;
+            i = i * 2;
         }
     }
 }
