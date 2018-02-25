@@ -11,6 +11,8 @@ namespace SimpleWMS
         static void Main(string[] args)
         {
             int i = 1;
+
+            i = i + 1;
         }
     }
 }
